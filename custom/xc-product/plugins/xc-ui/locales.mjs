@@ -1,0 +1,4 @@
+/** Product-owned account dictionaries. */
+export const common={zh:{close:'关闭'},en:{close:'Close'}};
+export const zh={account:'账号与余额',description:'账号信息与使用情况',balance:'余额',today:'今日使用',settings:'设置',logout:'退出登录',refresh:'刷新',loading:'正在加载',name:'名称',email:'邮箱',concurrency:'并发数',total:'累计请求',requests:'请求数',tokens:'Token 数',trend:'最近七天使用趋势',models:'模型使用情况',model:'模型',cost:'实际费用',expired:'登录已过期，请重新登录',failed:'加载失败，请重试'};
+export const en={account:'Account & balance',description:'Account and usage',balance:'Balance',today:'Today',settings:'Settings',logout:'Sign out',refresh:'Refresh',loading:'Loading',name:'Name',email:'Email',concurrency:'Concurrency',total:'Total requests',requests:'Requests',tokens:'Tokens',trend:'Usage over seven days',models:'Model usage',model:'Model',cost:'Actual cost',expired:'Session expired. Sign in again.',failed:'Unable to load. Please retry.'};
